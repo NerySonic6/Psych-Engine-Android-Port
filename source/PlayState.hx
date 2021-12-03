@@ -909,10 +909,10 @@ class PlayState extends MusicBeatState
 		scoreTxt.visible = !ClientPrefs.hideHud;
 		add(scoreTxt);
 
-creditTxt = new FlxText(886, 720, 449);
-        creditTxt.text = 'Ported By\nerysonic';
-        creditTxt.setFormat(Paths.font("vcr.ttf"), 33, FlxColor.WHITE, RIGHT);
-        creditTxt.setBorderStyle(OUTLINE, FlxColor.BLACK, 3, 1);       
+		creditTxt = new FlxText(876, 620, 348);
+        creditTxt.text = 'Ported By\NerySonicAwesome';
+        creditTxt.setFormat(Paths.font("vcr.ttf"), 40, FlxColor.WHITE, RIGHT);
+        creditTxt.setBorderStyle(OUTLINE, FlxColor.BLACK, 4, 2);       
         creditTxt.scrollFactor.set();
         add(creditTxt);
 
