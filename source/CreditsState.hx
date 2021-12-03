@@ -47,7 +47,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
 			['fnf vs glitch Spongebob Port'],
-			['NerySonic',		    'nerysonic',		    'Fnf vs glitch Spongebob The Port',	 'https://youtube.com/channel/UC-22MauRVLz9U7QI-BDB9fQ',	'0xFF6475F3']
+			['NerySonic',		    'nerysonic',		    'Fnf vs glitch Spongebob The Port',	 'https://youtube.com/channel/UC-22MauRVLz9U7QI-BDB9fQ',	'0xFF6475F3'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
